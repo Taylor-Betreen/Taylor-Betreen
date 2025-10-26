@@ -73,6 +73,6 @@ Simulated client brief focusing on education sector security.
 
 - 🎮 When I'm not breaking into systems ethically, you'll find me gaming or working on my fitness
 - 🏋️ Health and fitness enthusiast
-- 🧩 Love solving complex security challenges and CTF competitions
+- 🧩 Love solving complex security challenges
 - 🔬 Always experimenting with new security tools and techniques
 
