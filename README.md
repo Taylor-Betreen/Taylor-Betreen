@@ -55,7 +55,6 @@ Simulated client brief focusing on education sector security.
 
 ## 🏆 Professional Development
 
-- **Invited to Halo IS Ltd Development Day** - Gained exposure to consultancy-grade cybersecurity training within a CREST-accredited environment
 - **Active in Cybersecurity Communities** - Regular attendee at DC151 (Leeds) and invited participant in 2600 (Manchester) hacker community
 - **Continuous Learning** - Engaged with CTF challenges, security research, and hands-on labs
 
